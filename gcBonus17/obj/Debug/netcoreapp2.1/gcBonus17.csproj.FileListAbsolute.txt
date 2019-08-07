@@ -1,0 +1,11 @@
+C:\Users\joshu\source\repos\gcBonus17\gcBonus17\obj\Debug\netcoreapp2.1\gcBonus17.csprojAssemblyReference.cache
+C:\Users\joshu\source\repos\gcBonus17\gcBonus17\obj\Debug\netcoreapp2.1\gcBonus17.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\gcBonus17\gcBonus17\obj\Debug\netcoreapp2.1\gcBonus17.AssemblyInfoInputs.cache
+C:\Users\joshu\source\repos\gcBonus17\gcBonus17\obj\Debug\netcoreapp2.1\gcBonus17.AssemblyInfo.cs
+C:\Users\joshu\source\repos\gcBonus17\gcBonus17\bin\Debug\netcoreapp2.1\gcBonus17.deps.json
+C:\Users\joshu\source\repos\gcBonus17\gcBonus17\bin\Debug\netcoreapp2.1\gcBonus17.runtimeconfig.json
+C:\Users\joshu\source\repos\gcBonus17\gcBonus17\bin\Debug\netcoreapp2.1\gcBonus17.runtimeconfig.dev.json
+C:\Users\joshu\source\repos\gcBonus17\gcBonus17\bin\Debug\netcoreapp2.1\gcBonus17.dll
+C:\Users\joshu\source\repos\gcBonus17\gcBonus17\bin\Debug\netcoreapp2.1\gcBonus17.pdb
+C:\Users\joshu\source\repos\gcBonus17\gcBonus17\obj\Debug\netcoreapp2.1\gcBonus17.dll
+C:\Users\joshu\source\repos\gcBonus17\gcBonus17\obj\Debug\netcoreapp2.1\gcBonus17.pdb
